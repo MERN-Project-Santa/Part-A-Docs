@@ -7,16 +7,16 @@ Santa Site - Part A Documentation
 
 ## Table of Contents
 
-- [Description]()
-- [Purpose]()
-- [Functionality/Features]()
-- [Target Audience]()
-- [Tech Stack]()
-- [Dataflow Diagram]()
-- [Application Architecture]()
-- [User Stories]()
-- [Wireframes]()
-- [Trello Board]()
+- [Description](https://github.com/MERN-Project-Santa/Part-A-Docs#description)
+- [Purpose](https://github.com/MERN-Project-Santa/Part-A-Docs#purpose)
+- [Functionality/Features](https://github.com/MERN-Project-Santa/Part-A-Docs#functionality--features)
+- [Target Audience](https://github.com/MERN-Project-Santa/Part-A-Docs#target-audience)
+- [Tech Stack](https://github.com/MERN-Project-Santa/Part-A-Docs#tech-stack)
+- [Dataflow Diagram](https://github.com/MERN-Project-Santa/Part-A-Docs#dataflow-diagram)
+- [Application Architecture](https://github.com/MERN-Project-Santa/Part-A-Docs#application-architecture-diagram)
+- [User Stories](https://github.com/MERN-Project-Santa/Part-A-Docs#user-stories)
+- [Wireframes](https://github.com/MERN-Project-Santa/Part-A-Docs#wireframes)
+- [Trello Board](https://github.com/MERN-Project-Santa/Part-A-Docs#trello-board)
 
 ## Description
 
