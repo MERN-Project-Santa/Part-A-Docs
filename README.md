@@ -36,7 +36,7 @@ Santa Site - Part A Documentation
 
 <details>
 
-<summary>Child</summary>
+<summary><strong>Child</strong></summary>
 
 - As a child I want to be able to create a list of gifts I want from Santa.
 - As a child I want to be able to write a letter to Santa.
@@ -46,7 +46,7 @@ Santa Site - Part A Documentation
 
 <details>
 
-<summary>Parent</summary>
+<summary><strong>Parent</strong></summary>
 
 - As a parent I want to be able to add my children.
 - As a parent I want to be able to see my childrens gift list.
@@ -58,7 +58,7 @@ Santa Site - Part A Documentation
 
 <details>
 
-<summary>Standard User</summary>
+<summary><strong>Standard User</strong></summary>
 
 - As a user I want to be able to have acces to a navigation bar so I can view the information I want.
 - As a user I want to be able to view an about page with information about the websites purpose and goals.
@@ -71,7 +71,8 @@ Santa Site - Part A Documentation
 
 <details>
 
-<summary>Signed In User</summary>
+<summary><strong>Signed In User</strong></summary>
+
 - As a user I want to be able to create a gift list for Christmas to track what presents I want to get.
 - As a user I want to be able to delete items from my gift list.
 - As a user I want to be able to mark items as purchased from my gift list.
