@@ -28,6 +28,50 @@ Santa Site - Part A Documentation
 
 ### Tech Stack
 
+#### **Front-end**
+
+- HTML
+- JavaScript
+- CSS
+- [React](https://reactjs.org/)
+- Any theme libraries
+
+#### **Back-end**
+
+- [Express](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en/)
+
+#### **Database**
+
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+
+#### **Deployment**
+
+- [Heroku](https://www.heroku.com/)
+- [Netlify](https://www.netlify.com/)
+
+#### **Project Management Tools**
+
+- [Trello](https://trello.com/)
+- [Discord](https://discord.com/)
+
+#### **Testing**
+
+- [Cypress](https://www.cypress.io/)
+- [Mocha](https://mochajs.org/)
+
+#### **DevOps Tools**
+
+- [git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+#### Design Tools
+
+- [Figma](https://www.figma.com/)
+- [diagrams.net](https://app.diagrams.net/)
+
 ## Dataflow Diagram
 
 ## Application Architecture Diagram
