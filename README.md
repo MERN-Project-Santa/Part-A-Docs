@@ -76,7 +76,8 @@ Santa Site - Part A Documentation
 - As a user I want to be able to create a gift list for Christmas to track what presents I want to get.
 - As a user I want to be able to delete items from my gift list.
 - As a user I want to be able to mark items as purchased from my gift list.
-- As a user I want to be able to create a Secrect Santa group and interact with pre existing ones.
+- As a user I want to be able to create a Secret Santa group.
+- As a user I want to be able to join a Secret Santa group.
 - As a user I want to be able to see who I have to purchase a gift for as a Secret Santa.
 - As a user I want to be able to create a wishlist that my Secret Santa can view.
 
