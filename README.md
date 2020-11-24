@@ -20,11 +20,22 @@ Santa Site - Part A Documentation
 
 ## Description
 
-### Purpose
+### Purpose 
 
-### Functionality / features
+There are three main purposes of this project, save the environment,save labor and entertain. Saving the environment through going paperless on gift lists, letters to Santa and advent calendars. Saving labour for our client (Santa and the elves) through collecting users present data that can be used to create gifts in the north pole with more accuracy. Lastly to entertain the user with various activities, therefore making them more likely to come back to the site.
 
-### Target Audience
+### Functionality / features 
+
+- Advent Calender (normal) 
+- Advent Calender (game) 
+- Letter to Santa 
+- Secret Santa 
+- Gift List 
+- Countdown to Christmas
+
+### Target Audience  
+
+There are three main audiences we are targeting, parents,children and groups. Parents are targeted to use the letter to Santa feature so they can manage the gift lists of their children in a festive way. Children are targeted to be entertained by the numerous activities as well as the letter to Santa after being set up by their parent. Lastly, groups are targeted to utilize the secret santa option as a means to save money as they do not have to buy a gift for everyone, but increase the cost and quality of one gift given to the randomly chosen recipient.
 
 ### Tech Stack
 
@@ -76,7 +87,10 @@ Santa Site - Part A Documentation
 
 ![Dataflow Diagram](./dataflowDiagram/dataflowDiagram.PNG)
 
-## Application Architecture Diagram
+## Application Architecture Diagram 
+
+![Application Architecture Diagram](./applicationArchitecture/architectureDiagram.PNG)
+
 
 ## User Stories
 
