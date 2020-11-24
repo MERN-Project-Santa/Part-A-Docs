@@ -81,6 +81,8 @@ Santa Site - Part A Documentation
 
 ## User Stories
 
+### **Stage One** - User Stories
+
 <details>
 
 <summary><strong>Child</strong></summary>
@@ -130,7 +132,19 @@ Santa Site - Part A Documentation
 
 </details>
 
-## Wireframes  
+### **Stage Two** - User Personas
+
+To better understand our target audience User Personas were created so that we could learn more about the goals and needs of our users.
+
+**User Persona - Julia Burns - Parent**:
+
+![Parent User Persona](./personas/parent-persona.PNG)
+
+**User Persona - Will Jones - Child**:
+
+![Child User Persona](./personas/child-persona.PNG)
+
+## Wireframes
 
 ![Login](./wireframeScreenshots/Login.PNG)
 
@@ -138,23 +152,21 @@ Santa Site - Part A Documentation
 
 ![Home](./wireframeScreenshots/Home.PNG)
 
-![About-Us](./wireframeScreenshots/About-Us.PNG) 
+![About-Us](./wireframeScreenshots/About-Us.PNG)
 
-![Gift-List](./wireframeScreenshots/Gift%20List.PNG) 
+![Gift-List](./wireframeScreenshots/Gift%20List.PNG)
 
-![Advent Calender](./wireframeScreenshots/Advent-Calender.PNG) 
+![Advent Calender](./wireframeScreenshots/Advent-Calender.PNG)
 
-![Parent - Letter to Santa](./wireframeScreenshots/Parent-Letter-to-Santa.PNG) 
+![Parent - Letter to Santa](./wireframeScreenshots/Parent-Letter-to-Santa.PNG)
 
-![Add-Child](./wireframeScreenshots/Add-child-Letter-to-Santa.PNG) 
+![Add-Child](./wireframeScreenshots/Add-child-Letter-to-Santa.PNG)
 
-![View List](./wireframeScreenshots/View-list-Letter-to-Santa.PNG) 
+![View List](./wireframeScreenshots/View-list-Letter-to-Santa.PNG)
 
-![Child - Letter to Santa](./wireframeScreenshots/Child-Letter-to-Santa.PNG) 
+![Child - Letter to Santa](./wireframeScreenshots/Child-Letter-to-Santa.PNG)
 
 ![Secret Santa](./wireframeScreenshots/Secret-Santa.PNG)
-
-
 
 ## Trello Board
 
