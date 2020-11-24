@@ -135,7 +135,7 @@ To better understand our target audience User Personas were created so that we c
 
 **User Persona - Julia Burns - Parent**:
 
-![Parent User Persona](./personas/parent-persona.png)
+![Parent User Persona](./personas/parent-persona.PNG)
 
 ## Wireframes
 
