@@ -78,7 +78,7 @@ Santa Site - Part A Documentation
 
 ## User Stories
 
-### **Stage One** - User Stories:
+### **Stage One** - User Stories
 
 <details>
 
@@ -129,13 +129,17 @@ Santa Site - Part A Documentation
 
 </details>
 
-### **Stage Two** - User Personas:
+### **Stage Two** - User Personas
 
 To better understand our target audience User Personas were created so that we could learn more about the goals and needs of our users.
 
 **User Persona - Julia Burns - Parent**:
 
-![Parent User Persona](./personas/parent-persona.png)
+![Parent User Persona](./personas/parent-persona.PNG)
+
+**User Persona - Will Jones - Child**:
+
+![Child User Persona](./personas/child-persona.PNG)
 
 ## Wireframes
 
