@@ -28,6 +28,50 @@ Santa Site - Part A Documentation
 
 ### Tech Stack
 
+#### **Front-end**
+
+- HTML
+- JavaScript
+- CSS
+- [React](https://reactjs.org/)
+- Any theme libraries
+
+#### **Back-end**
+
+- [Express](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en/)
+
+#### **Database**
+
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+
+#### **Deployment**
+
+- [Heroku](https://www.heroku.com/)
+- [Netlify](https://www.netlify.com/)
+
+#### **Project Management Tools**
+
+- [Trello](https://trello.com/)
+- [Discord](https://discord.com/)
+
+#### **Testing**
+
+- [Cypress](https://www.cypress.io/)
+- [Mocha](https://mochajs.org/)
+
+#### **DevOps Tools**
+
+- [git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+#### Design Tools
+
+- [Figma](https://www.figma.com/)
+- [diagrams.net](https://app.diagrams.net/)
+
 ## Dataflow Diagram
 
 ## Application Architecture Diagram
@@ -76,7 +120,8 @@ Santa Site - Part A Documentation
 - As a user I want to be able to create a gift list for Christmas to track what presents I want to get.
 - As a user I want to be able to delete items from my gift list.
 - As a user I want to be able to mark items as purchased from my gift list.
-- As a user I want to be able to create a Secrect Santa group and interact with pre existing ones.
+- As a user I want to be able to create a Secret Santa group.
+- As a user I want to be able to join a Secret Santa group.
 - As a user I want to be able to see who I have to purchase a gift for as a Secret Santa.
 - As a user I want to be able to create a wishlist that my Secret Santa can view.
 
