@@ -72,7 +72,10 @@ Santa Site - Part A Documentation
 - [Figma](https://www.figma.com/)
 - [diagrams.net](https://app.diagrams.net/)
 
-## Dataflow Diagram
+## Dataflow Diagram  
+
+![Dataflow Diagram](./dataflowDiagram/dataflowDiagram.PNG)
+
 
 ## Application Architecture Diagram
 
