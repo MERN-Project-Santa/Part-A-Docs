@@ -145,11 +145,12 @@ Santa Site - Part A Documentation
 
 ![Add-Child](./wireframeScreenshots/Add-child-Letter-to-Santa.PNG) 
 
-![View List](./wireframeScreenshots/View-List-Letter-to-Santa.PNG) 
+![View List](./wireframeScreenshots/View-list-Letter-to-Santa.PNG) 
 
 ![Child - Letter to Santa](./wireframeScreenshots/Child-Letter-to-Santa.PNG) 
 
 ![Secret Santa](./wireframeScreenshots/Secret-Santa.PNG)
+
 
 
 ## Trello Board
