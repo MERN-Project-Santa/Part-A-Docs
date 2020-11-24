@@ -129,25 +129,25 @@ Santa Site - Part A Documentation
 
 ## Wireframes  
 
-![Home](./wireframeScreenshots\Login.PNG)
+![Login](./wireframeScreenshots\Login.PNG)
 
-![Home](./wireframeScreenshots\Sign Up.PNG)
+![Sign-Up](./wireframeScreenshots\Sign-Up.PNG)
 
 ![Home](./wireframeScreenshots\Home.PNG)
 
-<img src="./wireframeScreenshots\About Us.PNG" alt="Home"  />
+![About-Us](./wireframeScreenshots\About Us.PNG) 
 
-![Home](./wireframeScreenshots\Gift List.PNG) 
+![Gift-List](./wireframeScreenshots\Gift-List.PNG) 
 
-![Home](./wireframeScreenshots\Advent Calender.PNG) 
+![Advent Calender](./wireframeScreenshots\Advent-Calender.PNG) 
 
-![Home](./wireframeScreenshots\Parent - Letter to Santa.PNG) 
+![Parent - Letter to Santa](./wireframeScreenshots\Parent---Letter-to-Santa.PNG) 
 
-![Home](./wireframeScreenshots\Add child - Letter to Santa.PNG) 
+![Add-Child](./wireframeScreenshots\Add-child---Letter-to-Santa.PNG) 
 
-![Home](./wireframeScreenshots\View List - Letter to Santa.PNG) 
+![View List](./wireframeScreenshots\View-List---Letter-to-Santa.PNG) 
 
-![Home](./wireframeScreenshots\Child - Letter to Santa.PNG)![Home](./wireframeScreenshots\Secret Santa.PNG)
+![Child](./wireframeScreenshots\Child---Letter-to-Santa.PNG)
 
 ## Trello Board
 
