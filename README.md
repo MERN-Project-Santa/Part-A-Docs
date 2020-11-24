@@ -89,7 +89,7 @@ There are three main audiences we are targeting, parents,children and groups. Pa
 
 ## Application Architecture Diagram 
 
-![Application Architecture Diagram](./applicationArchitecture/ArchitectureDiagram.PNG)
+![Application Architecture Diagram](./applicationArchitecture/architectureDiagram.PNG)
 
 
 ## User Stories
