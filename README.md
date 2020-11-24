@@ -62,7 +62,7 @@ Santa Site - Part A Documentation
 - [Mocha](https://mochajs.org/)
 
 #### **DevOps Tools**
-    
+
 - [git](https://git-scm.com/)
 - [GitHub](https://github.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -72,10 +72,9 @@ Santa Site - Part A Documentation
 - [Figma](https://www.figma.com/)
 - [diagrams.net](https://app.diagrams.net/)
 
-## Dataflow Diagram  
+## Dataflow Diagram
 
 ![Dataflow Diagram](./dataflowDiagram/dataflowDiagram.PNG)
-
 
 ## Application Architecture Diagram
 
@@ -143,6 +142,10 @@ To better understand our target audience User Personas were created so that we c
 **User Persona - Will Jones - Child**:
 
 ![Child User Persona](./personas/child-persona.PNG)
+
+**User Persona - David Thompson - Signed In User - Secret Santa**:
+
+![Secret Santa Persona](./personas/secret-santa-persona.PNG)
 
 ## Wireframes
 
