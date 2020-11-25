@@ -2,8 +2,13 @@
 
 Santa Site - Part A Documentation
 
-- [Live Site](#)
 - [Github Repo](https://github.com/MERN-Project-Santa/Part-A-Docs)
+
+## Authors
+
+Ashley Smith - [GitHub](https://github.com/Ash-Eileen) | [Portfolio](https://ashleysmith.netlify.app/) | [Twitter](https://twitter.com/Ash413_) | [LinkedIn](https://ashleysmith.netlify.app/contact.html)
+
+Jordon Goodsir - [GitHub](https://github.com/JordonGoodsir) | [Portfolio](https://jordongoodsir.netlify.app/) | [Twitter](https://twitter.com/GoodsirDev) | [LinkedIn](https://www.linkedin.com/in/jordon-goodsir-61466a1a5/)
 
 ## Table of Contents
 
@@ -20,20 +25,20 @@ Santa Site - Part A Documentation
 
 ## Description
 
-### Purpose 
+### Purpose
 
 There are three main purposes of this project, save the environment,save labor and entertain. Saving the environment through going paperless on gift lists, letters to Santa and advent calendars. Saving labour for our client (Santa and the elves) through collecting users present data that can be used to create gifts in the north pole with more accuracy. Lastly to entertain the user with various activities, therefore making them more likely to come back to the site.
 
-### Functionality / features 
+### Functionality / features
 
-- Advent Calender (normal) 
-- Advent Calender (game) 
-- Letter to Santa 
-- Secret Santa 
-- Gift List 
+- Advent Calender (normal)
+- Advent Calender (game)
+- Letter to Santa
+- Secret Santa
+- Gift List
 - Countdown to Christmas
 
-### Target Audience  
+### Target Audience
 
 There are three main audiences we are targeting, parents,children and groups. Parents are targeted to use the letter to Santa feature so they can manage the gift lists of their children in a festive way. Children are targeted to be entertained by the numerous activities as well as the letter to Santa after being set up by their parent. Lastly, groups are targeted to utilize the secret santa option as a means to save money as they do not have to buy a gift for everyone, but increase the cost and quality of one gift given to the randomly chosen recipient.
 
@@ -87,10 +92,9 @@ There are three main audiences we are targeting, parents,children and groups. Pa
 
 ![Dataflow Diagram](./dataflowDiagram/dataflowDiagram.PNG)
 
-## Application Architecture Diagram 
+## Application Architecture Diagram
 
 ![Application Architecture Diagram](./applicationArchitecture/architectureDiagram.PNG)
-
 
 ## User Stories
 
@@ -163,6 +167,8 @@ To better understand our target audience User Personas were created so that we c
 
 ## Wireframes
 
+The wireframes can be viewed in our Figma workspace in higher quality by going to this [link](https://www.figma.com/file/EKcUwpUCkfMpHojjCwWISm/Christmas-MERN?node-id=0%3A1).
+
 ![Login](./wireframeScreenshots/Login.PNG)
 
 ![Sign-Up](./wireframeScreenshots/Sign-Up.PNG)
@@ -187,8 +193,4 @@ To better understand our target audience User Personas were created so that we c
 
 ## Trello Board
 
-## Authors
-
-Ashley Smith - [GitHub](https://github.com/Ash-Eileen) | [Portfolio](https://ashleysmith.netlify.app/) | [Twitter](https://twitter.com/Ash413_) | [LinkedIn](https://ashleysmith.netlify.app/contact.html)
-
-Jordon Goodsir - [GitHub](https://github.com/JordonGoodsir) | [Portfolio](https://jordongoodsir.netlify.app/) | [Twitter](https://twitter.com/GoodsirDev) | [LinkedIn](https://www.linkedin.com/in/jordon-goodsir-61466a1a5/)
+Our Trello board can be viewed [here](https://trello.com/b/9TwvvbPX/full-stack-app-santa).
