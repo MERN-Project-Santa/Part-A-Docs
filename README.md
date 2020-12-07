@@ -290,6 +290,8 @@ The wireframes can be viewed in our Figma workspace in higher quality by going t
 
 Our Trello board can be viewed [here](https://trello.com/b/9TwvvbPX/full-stack-app-santa).
 
-We took screenshots of our Trello each day at minimum in the morning and afternoon. These screenshots can be viewed [here](#).
+We took screenshots of our Trello each day at minimum in the morning and afternoon. These screenshots can be viewed [here](https://github.com/MERN-Project-Santa/Part-A-Docs/tree/main/docs/trello-screenshots).
 
 ## Planning Methodology
+
+For our planning methodology we considered a couple of different options. The two main candidates were scrum and kanban for our planning. With scrum we discussed using sprints and how we would break these up, however, in the end decided this would be less efficient than going with a kanban approach. The Kanban methodology provided more flexibility, reduced the risk of bottlenecks and allowed for continuous delivery. This was achieved through the use of a digital kanban board on Trello.
