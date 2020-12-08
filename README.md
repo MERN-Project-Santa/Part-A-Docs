@@ -167,6 +167,8 @@ To better understand our target audience User Personas were created so that we c
 
 ### **Stage Three** - Updated User Stories
 
+We updated our user stories and removed some functions we were no longer including but also wanted to include the why behind each user story.
+
 <details>
 
 <summary><strong>Child</strong></summary>
